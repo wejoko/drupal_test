@@ -1,0 +1,4 @@
+name = Drupal test module
+description = Testing my abilities.
+core = 7.x
+package = Test
